@@ -1,5 +1,7 @@
 # nft.js
 
+A collection of NFT utilities in the public domain.
+
 ## TODOs
 
 - one-line mint
